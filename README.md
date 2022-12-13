@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaquete7
+- 👋 Hi, I’m Guillermo jaquete (@jaquete7)
 - 👀 I’m interested in developing, data analytics, blockchain tech and much more.
 - 🌱 I have knowledge on Java, Python, .NET, SQL, C# and more.
 - 💞️ I’m looking to collaborate on Java, C#, .NET, Python, Html, CSS, JavaScript, SQL
